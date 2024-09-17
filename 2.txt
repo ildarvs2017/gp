@@ -1,0 +1,9 @@
+CREATE DATABASE
+You are now connected to database "test_datasets" as user "gpadmin".
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
