@@ -1,0 +1,18 @@
+total 83820
+-rw-rw-r-- 1 gpadmin gpadmin        0 Sep 17 07:08 1.txt
+-rw-rw-r-- 1 gpadmin gpadmin  4857873 Sep 16 13:27 customer.csv
+-rw-rw-r-- 1 gpadmin gpadmin  1815202 Sep 16 13:27 customer.zip
+-rw-rw-r-- 1 gpadmin gpadmin     2224 Sep 16 15:37 nation.csv
+-rw-rw-r-- 1 gpadmin gpadmin     1104 Sep 16 13:27 nation.zip
+-rw-rw-r-- 1 gpadmin gpadmin 33979725 Sep 16 15:37 orders.csv
+-rw-rw-r-- 1 gpadmin gpadmin  9363809 Sep 16 13:27 orders.zip
+-rw-rw-r-- 1 gpadmin gpadmin  4795331 Sep 16 15:37 part.csv
+-rw-rw-r-- 1 gpadmin gpadmin 23606270 Sep 16 15:37 partsupp.csv
+-rw-rw-r-- 1 gpadmin gpadmin  5714950 Sep 16 13:27 partsupp.zip
+-rw-rw-r-- 1 gpadmin gpadmin  1172193 Sep 16 13:27 part.zip
+-rw-rw-r-- 1 gpadmin gpadmin      389 Sep 16 15:37 region.csv
+-rw-rw-r-- 1 gpadmin gpadmin      390 Sep 16 13:27 region.zip
+-rw-rw-r-- 1 gpadmin gpadmin   281030 Sep 16 15:37 supplier.csv
+-rw-rw-r-- 1 gpadmin gpadmin   114393 Sep 16 13:27 supplier.zip
+-rw-rw-r-- 1 gpadmin gpadmin    44703 Sep 16 15:37 tpc-h.png
+-rw-rw-r-- 1 gpadmin gpadmin    43287 Sep 16 13:27 tpc-h.zip
