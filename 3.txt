@@ -1,0 +1,106 @@
+                           List of relations
+ Schema |        Name         | Type  |  Owner  |       Storage        
+--------+---------------------+-------+---------+----------------------
+ public | customer            | table | gpadmin | append only columnar
+ public | nation              | table | gpadmin | append only columnar
+ public | orders              | table | gpadmin | append only columnar
+ public | orders_1_prt_10     | table | gpadmin | append only columnar
+ public | orders_1_prt_11     | table | gpadmin | append only columnar
+ public | orders_1_prt_12     | table | gpadmin | append only columnar
+ public | orders_1_prt_13     | table | gpadmin | append only columnar
+ public | orders_1_prt_14     | table | gpadmin | append only columnar
+ public | orders_1_prt_15     | table | gpadmin | append only columnar
+ public | orders_1_prt_16     | table | gpadmin | append only columnar
+ public | orders_1_prt_17     | table | gpadmin | append only columnar
+ public | orders_1_prt_18     | table | gpadmin | append only columnar
+ public | orders_1_prt_19     | table | gpadmin | append only columnar
+ public | orders_1_prt_2      | table | gpadmin | append only columnar
+ public | orders_1_prt_20     | table | gpadmin | append only columnar
+ public | orders_1_prt_21     | table | gpadmin | append only columnar
+ public | orders_1_prt_22     | table | gpadmin | append only columnar
+ public | orders_1_prt_23     | table | gpadmin | append only columnar
+ public | orders_1_prt_24     | table | gpadmin | append only columnar
+ public | orders_1_prt_25     | table | gpadmin | append only columnar
+ public | orders_1_prt_26     | table | gpadmin | append only columnar
+ public | orders_1_prt_27     | table | gpadmin | append only columnar
+ public | orders_1_prt_28     | table | gpadmin | append only columnar
+ public | orders_1_prt_29     | table | gpadmin | append only columnar
+ public | orders_1_prt_3      | table | gpadmin | append only columnar
+ public | orders_1_prt_30     | table | gpadmin | append only columnar
+ public | orders_1_prt_31     | table | gpadmin | append only columnar
+ public | orders_1_prt_32     | table | gpadmin | append only columnar
+ public | orders_1_prt_33     | table | gpadmin | append only columnar
+ public | orders_1_prt_34     | table | gpadmin | append only columnar
+ public | orders_1_prt_35     | table | gpadmin | append only columnar
+ public | orders_1_prt_36     | table | gpadmin | append only columnar
+ public | orders_1_prt_37     | table | gpadmin | append only columnar
+ public | orders_1_prt_38     | table | gpadmin | append only columnar
+ public | orders_1_prt_39     | table | gpadmin | append only columnar
+ public | orders_1_prt_4      | table | gpadmin | append only columnar
+ public | orders_1_prt_40     | table | gpadmin | append only columnar
+ public | orders_1_prt_41     | table | gpadmin | append only columnar
+ public | orders_1_prt_42     | table | gpadmin | append only columnar
+ public | orders_1_prt_43     | table | gpadmin | append only columnar
+ public | orders_1_prt_44     | table | gpadmin | append only columnar
+ public | orders_1_prt_45     | table | gpadmin | append only columnar
+ public | orders_1_prt_46     | table | gpadmin | append only columnar
+ public | orders_1_prt_47     | table | gpadmin | append only columnar
+ public | orders_1_prt_48     | table | gpadmin | append only columnar
+ public | orders_1_prt_49     | table | gpadmin | append only columnar
+ public | orders_1_prt_5      | table | gpadmin | append only columnar
+ public | orders_1_prt_50     | table | gpadmin | append only columnar
+ public | orders_1_prt_51     | table | gpadmin | append only columnar
+ public | orders_1_prt_52     | table | gpadmin | append only columnar
+ public | orders_1_prt_53     | table | gpadmin | append only columnar
+ public | orders_1_prt_54     | table | gpadmin | append only columnar
+ public | orders_1_prt_55     | table | gpadmin | append only columnar
+ public | orders_1_prt_56     | table | gpadmin | append only columnar
+ public | orders_1_prt_57     | table | gpadmin | append only columnar
+ public | orders_1_prt_58     | table | gpadmin | append only columnar
+ public | orders_1_prt_59     | table | gpadmin | append only columnar
+ public | orders_1_prt_6      | table | gpadmin | append only columnar
+ public | orders_1_prt_60     | table | gpadmin | append only columnar
+ public | orders_1_prt_61     | table | gpadmin | append only columnar
+ public | orders_1_prt_62     | table | gpadmin | append only columnar
+ public | orders_1_prt_63     | table | gpadmin | append only columnar
+ public | orders_1_prt_64     | table | gpadmin | append only columnar
+ public | orders_1_prt_65     | table | gpadmin | append only columnar
+ public | orders_1_prt_66     | table | gpadmin | append only columnar
+ public | orders_1_prt_67     | table | gpadmin | append only columnar
+ public | orders_1_prt_68     | table | gpadmin | append only columnar
+ public | orders_1_prt_69     | table | gpadmin | append only columnar
+ public | orders_1_prt_7      | table | gpadmin | append only columnar
+ public | orders_1_prt_70     | table | gpadmin | append only columnar
+ public | orders_1_prt_71     | table | gpadmin | append only columnar
+ public | orders_1_prt_72     | table | gpadmin | append only columnar
+ public | orders_1_prt_73     | table | gpadmin | append only columnar
+ public | orders_1_prt_74     | table | gpadmin | append only columnar
+ public | orders_1_prt_75     | table | gpadmin | append only columnar
+ public | orders_1_prt_76     | table | gpadmin | append only columnar
+ public | orders_1_prt_77     | table | gpadmin | append only columnar
+ public | orders_1_prt_78     | table | gpadmin | append only columnar
+ public | orders_1_prt_79     | table | gpadmin | append only columnar
+ public | orders_1_prt_8      | table | gpadmin | append only columnar
+ public | orders_1_prt_80     | table | gpadmin | append only columnar
+ public | orders_1_prt_81     | table | gpadmin | append only columnar
+ public | orders_1_prt_82     | table | gpadmin | append only columnar
+ public | orders_1_prt_83     | table | gpadmin | append only columnar
+ public | orders_1_prt_84     | table | gpadmin | append only columnar
+ public | orders_1_prt_85     | table | gpadmin | append only columnar
+ public | orders_1_prt_86     | table | gpadmin | append only columnar
+ public | orders_1_prt_87     | table | gpadmin | append only columnar
+ public | orders_1_prt_9      | table | gpadmin | append only columnar
+ public | orders_1_prt_others | table | gpadmin | append only columnar
+ public | part                | table | gpadmin | append only columnar
+ public | partsupp            | table | gpadmin | append only columnar
+ public | region              | table | gpadmin | append only columnar
+ public | supplier            | table | gpadmin | append only columnar
+(94 rows)
+
+COPY 30000
+COPY 25
+COPY 300000
+COPY 40000
+COPY 160000
+COPY 5
+COPY 2000
